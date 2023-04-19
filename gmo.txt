@@ -1,4 +1,7 @@
 Modify 1
 Modify 2
 Modify 3
+<<<<<<< HEAD
 Modify 4
+=======
+>>>>>>> b0e5610a1cdf3841d03210c24fb82f43a5f3367b
